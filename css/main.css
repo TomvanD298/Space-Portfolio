@@ -1,0 +1,31 @@
+@font-face {
+    font-family: spaceFont;
+    src: url(../assets/fonts/D-DIN.woff2);
+}
+
+@font-face {
+    font-family: spaceFontBold;
+    src: url(../assets/fonts/D-DIN-Bold.woff2);
+    font-weight: bold;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+}
+
+html{
+    margin: 0;
+    padding: 0;
+}
+
+header p {
+    font-family: spaceFont;
+    color: white;
+    font-size: 2em;
+    margin-right: 1em;
+}
+
+h1 {
+    font-family: spaceFont;
+}
